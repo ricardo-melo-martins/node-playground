@@ -1,0 +1,14 @@
+{
+  "name": "dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js "
+  },
+  "author": "⚡RMM⚡",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
